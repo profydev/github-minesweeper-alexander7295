@@ -9,6 +9,15 @@
     "clear b2",
     "clear c3",
     "clear d4",
-    "clear e1"
+    "clear e1",
+    "flag e2",
+    "clear e4",
+    "clear d3",
+    "clear d2",
+    "flag d1",
+    "flag e5",
+    "clear d5",
+    "clear c5",
+    "clear c4"
   ]
 }
